@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    {
+      "name": "dense_input",
+      "shape": [1, 5],
+      "datatype": "FP32",
+      "data": [
+        [0.0, 1.0, 1.0, 1.0, 0.0]
+      ]
+    }
+  ]
+}
